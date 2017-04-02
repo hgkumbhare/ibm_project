@@ -1,0 +1,35 @@
+{
+  "sentiment": {
+    "document": {
+      "score": 0.961617,
+      "label": "positive"
+    }
+  },
+  "keywords": [
+    {
+      "text": "American dream",
+      "relevance": 0.94251
+    },
+    {
+      "text": "truths",
+      "relevance": 0.719758
+    },
+    {
+      "text": "creed",
+      "relevance": 0.705765
+    },
+    {
+      "text": "nation",
+      "relevance": 0.588062
+    },
+    {
+      "text": "self",
+      "relevance": 0.575163
+    },
+    {
+      "text": "men",
+      "relevance": 0.571581
+    }
+  ],
+  "language": "en"
+}

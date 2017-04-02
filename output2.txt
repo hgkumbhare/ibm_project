@@ -1,0 +1,53 @@
+{
+  "sentiment": {
+    "document": {
+      "score": 0.961617,
+      "label": "positive"
+    }
+  },
+  "keywords": [
+    {
+      "text": "American dream",
+      "sentiment": {
+        "score": 0.598519
+      },
+      "relevance": 0.94251
+    },
+    {
+      "text": "truths",
+      "sentiment": {
+        "score": 0.0
+      },
+      "relevance": 0.719758
+    },
+    {
+      "text": "creed",
+      "sentiment": {
+        "score": 0.598519
+      },
+      "relevance": 0.705765
+    },
+    {
+      "text": "nation",
+      "sentiment": {
+        "score": 0.598519
+      },
+      "relevance": 0.588062
+    },
+    {
+      "text": "self",
+      "sentiment": {
+        "score": 0.0
+      },
+      "relevance": 0.575163
+    },
+    {
+      "text": "men",
+      "sentiment": {
+        "score": 0.0
+      },
+      "relevance": 0.571581
+    }
+  ],
+  "language": "en"
+}
