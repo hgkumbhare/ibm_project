@@ -1,0 +1,44 @@
+sudo apt-get install tweepy
+
+ans: sudo pip3 install tweepy
+
+pip install --upgrade watson-developer-cloud
+
+ans: pip3 install --upgrade watson-developer-sloud
+
+pip install pyaudio 
+http://stackoverflow.com/questions/20023131/cannot-install-pyaudio-gcc-error
+
+pip install wave
+
+pip install json 
+IT is built in model
+
+
+install abvin  (u mean avbin)
+http://stackoverflow.com/questions/10302873/python-pyglet-avbin-how-to-install-avbin
+
+
+
+
+additional
+install pyglet
+http://installion.co.uk/ubuntu/vivid/universe/p/python-pyglet/install/index.html
+
+
+ERROR:
+File "/home/hgkumbhare/ibm_project/twitter/readTweet.py", line 25, in textToSpeech
+    pyglet.clock.schedule_once(exit_callback , sound.duration)
+  File "/usr/lib/pymodules/python2.7/pyglet/clock.py", line 814, in schedule_once
+    _default.schedule_once(func, delay, *args, **kwargs)
+  File "/usr/lib/pymodules/python2.7/pyglet/clock.py", line 623, in schedule_once
+    next_ts = last_ts + delay
+TypeError: unsupported operand type(s) for +: 'float' and 'NoneType'
+
+SOLUTION:
+install pip3
+http://askubuntu.com/questions/778052/installing-pip3-for-python3-on-ubuntu-16-04-lts-using-a-proxy
+
+pip3 install pyglet
+http://stackoverflow.com/questions/21298834/how-to-get-pyglet-working-for-python-3
+
